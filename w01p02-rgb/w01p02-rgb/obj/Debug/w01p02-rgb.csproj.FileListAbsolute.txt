@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\bin\Debug\w01p02-rgb.exe.config
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\bin\Debug\w01p02-rgb.exe
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\bin\Debug\w01p02-rgb.pdb
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\obj\Debug\w01p02-rgb.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\obj\Debug\w01p02_rgb.Form1.resources
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\obj\Debug\w01p02_rgb.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\obj\Debug\w01p02-rgb.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\obj\Debug\w01p02-rgb.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\obj\Debug\w01p02-rgb.exe
+J:\Programy 2020\WSP_NST_wyklad\w01p02-rgb\w01p02-rgb\obj\Debug\w01p02-rgb.pdb

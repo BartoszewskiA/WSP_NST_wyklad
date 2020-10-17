@@ -19,7 +19,21 @@ namespace w01p01
 
         private void button1_Click(object sender, EventArgs e)
         {
-            label1.Text = "Kliknięto przycisk";
+            int x, y, temp;
+            //x = int.Parse(textBox1.Text);   - bez zabespieczeń
+            //y = int.Parse(textBox2.Text);
+            if (int.TryParse(textBox1.Text, out temp))
+                x = temp;
+            else
+                x = 0;
+            if (int.TryParse(textBox2.Text, out temp))
+                y = temp;
+            else
+                y = 0;
+            int wynik = x + y;
+            label1.Text = wynik.ToString();
+
+            //label1.Text = (x + y).ToString();
         }
     }
 }
