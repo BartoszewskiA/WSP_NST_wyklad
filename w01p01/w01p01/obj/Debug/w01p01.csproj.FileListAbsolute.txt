@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\bin\Debug\w01p01.exe.config
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\bin\Debug\w01p01.exe
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\bin\Debug\w01p01.pdb
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\obj\Debug\w01p01.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\obj\Debug\w01p01.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\obj\Debug\w01p01.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\obj\Debug\w01p01.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\obj\Debug\w01p01.exe
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\obj\Debug\w01p01.pdb
+J:\Programy 2020\WSP_NST_wyklad\w01p01\w01p01\obj\Debug\w01p01.Form1.resources
