@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab04-plikigraficzne", "Lab04-plikigraficzne\Lab04-plikigraficzne.csproj", "{BF6B3C6A-700A-4785-8366-A49BF948311D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BF6B3C6A-700A-4785-8366-A49BF948311D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF6B3C6A-700A-4785-8366-A49BF948311D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF6B3C6A-700A-4785-8366-A49BF948311D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF6B3C6A-700A-4785-8366-A49BF948311D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0E4C3281-3F3F-444B-9699-281B2027C7D6}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\bin\Debug\Lab3p01-stoper.exe.config
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\bin\Debug\Lab3p01-stoper.exe
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\bin\Debug\Lab3p01-stoper.pdb
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\obj\Debug\Lab3p01-stoper.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\obj\Debug\Lab3p01_stoper.Form1.resources
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\obj\Debug\Lab3p01_stoper.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\obj\Debug\Lab3p01-stoper.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\obj\Debug\Lab3p01-stoper.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\obj\Debug\Lab3p01-stoper.exe
+J:\Programy 2020\WSP_NST_wyklad\Lab3p01-stoper\Lab3p01-stoper\obj\Debug\Lab3p01-stoper.pdb

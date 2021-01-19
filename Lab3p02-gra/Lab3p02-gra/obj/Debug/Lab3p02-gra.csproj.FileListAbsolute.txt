@@ -1,0 +1,10 @@
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\bin\Debug\Lab3p02-gra.exe.config
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\bin\Debug\Lab3p02-gra.exe
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\bin\Debug\Lab3p02-gra.pdb
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\obj\Debug\Lab3p02-gra.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\obj\Debug\Lab3p02_gra.Form1.resources
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\obj\Debug\Lab3p02_gra.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\obj\Debug\Lab3p02-gra.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\obj\Debug\Lab3p02-gra.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\obj\Debug\Lab3p02-gra.exe
+J:\Programy 2020\WSP_NST_wyklad\Lab3p02-gra\Lab3p02-gra\obj\Debug\Lab3p02-gra.pdb

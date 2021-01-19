@@ -1,0 +1,11 @@
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\bin\Debug\lab04-losowanie.exe.config
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\bin\Debug\lab04-losowanie.exe
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\bin\Debug\lab04-losowanie.pdb
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04-losowanie.csprojAssemblyReference.cache
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04_losowanie.Form1.resources
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04_losowanie.Properties.Resources.resources
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04-losowanie.csproj.GenerateResource.cache
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04-losowanie.csproj.CoreCompileInputs.cache
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04-losowanie.exe
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04-losowanie.pdb
+J:\Programy 2020\WSP_NST_wyklad\lab04-losowanie\lab04-losowanie\obj\Debug\lab04_losowanie.Form2.resources
